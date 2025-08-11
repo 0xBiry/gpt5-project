@@ -17,11 +17,11 @@ A collection of examples, tools, and templates for working with GPT-5 — from p
 ### Install
 ```bash
 pip install openai
-
+```
 Example
-
+```
 python examples/python/gpt5_example.py
-
+```
 🛠 Features
 
 GPT-5 prompt templates
