@@ -13,9 +13,9 @@ We welcome contributions of all kinds — code, documentation, examples, or bug 
 
 4. Commit using Conventional Commit messages:
 
-feat: add GPT-5 prompt templates
+   feat: add GPT-5 prompt templates
 
-fix(api): handle rate limit retries
+   fix(api): handle rate limit retries
 
 
 
@@ -23,14 +23,14 @@ fix(api): handle rate limit retries
 
 
 
-Commit message format
+  Commit message format
 
-We follow the Conventional Commits standard.
+  We follow the [`Conventional`](https://www.conventionalcommits.org/en/v1.0.0/)        Commits standard.
 
-Code style
+  Code style
 
-Use black for formatting
+  Use black for formatting
+  
+  Keep functions small and focused
 
-Keep functions small and focused
-
-Add docstrings for functions and modules
+  Add docstrings for functions and modules
